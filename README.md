@@ -1,5 +1,4 @@
 <a class= "headding-Link" href="#may-name-is-hosein-dostalivand"><h1>My name is Hosein Dostalivand</h1>
-<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg>
 <a class= "headding-Link" href="#may-name-is-hosein-dostalivand"><h2>Skills</h2>
 
 <a class="heading-link" href="#skills">Skills<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a><br><br>
