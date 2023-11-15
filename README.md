@@ -2,7 +2,7 @@
 
 <ul dir="auto">
 <li>🖥️  See my portfolio at <a href="https://github.com/Hosein-DAV" rel="nofollow">GitHub.com</a></li>
-<li>🚀  I'm currently working <a href="#" rel="nofollow">Coming soon ...</a></li>
+<li>🚀  I will start working <a href="#" rel="nofollow">soon ...</a></li>
 <li>🤝  I'm open to collaborating on interesting projects a web developer.</li>
 </ul>
 
