@@ -6,7 +6,7 @@
 <li>🤝  I'm open to collaborating on interesting projects a web developer.</li>
 </ul>
 
-<a href="https://www.twitter.com/badrnezhad" rel="nofollow"><img src="https://camo.githubusercontent.com/5cac0da6953570ced107f446fc62a99180108bed7c395451e18d694207ca3f3c/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f626164726e657a6861643f6c6f676f3d74776974746572267374796c653d666f722d7468652d626164676526636f6c6f723d303839316232266c6162656c436f6c6f723d316331393137" data-canonical-src="https://img.shields.io/twitter/follow/badrnezhad?logo=twitter&amp;style=for-the-badge&amp;color=0891b2&amp;labelColor=1c1917" style="max-width: 100%;"></a>
+<a href="https://www.twitter.com/badrnezhad" rel="nofollow"><img src="https://camo.githubusercontent.com/5cac0da6953570ced107f446fc62a99180108bed7c395451e18d694207ca3f3c/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f626164726e657a6861643f6c6f676f3d74776974746572267374796c653d666f722d7468652d626164676526636f6c6f723d303839316232266c6162656c436f6c6f723d316331393137" data-canonical-src="#" style="max-width: 100%;"></a>
 
 
 <a class= "headding-Link" href="#Skills"><h2>Skills</h2>
