@@ -1,9 +1,8 @@
 <a class= "headding-Link" href="#may-name-is-hosein-dostalivand"><h1>Hi 👋, I'm Hosein Dostalivand Nezhad</h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F76F0A&width=500&lines=I'm+a+Front-End+Developer.+;I+Love+Coding+and+Programming+Challenges." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=25&duration=3000&pause=1000&color=F77617&width=550&lines=I'm+a+Front-End+Developer.;I+Love+Coding+And+Programming+Challenges." alt="Typing SVG" /></a>
 </p>
-
 
 
 
