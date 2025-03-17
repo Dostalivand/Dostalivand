@@ -1,10 +1,18 @@
-<a class= "headding-Link" href="#may-name-is-hosein-dostalivand"><h1>My Name is Hosein Dostalivand</h1>
+<a class= "headding-Link" href="#may-name-is-hosein-dostalivand"><h1>Hi 👋, I'm Hosein Dostalivan Nezhad</h1>
 
-<ul dir="auto">
-<li>🖥️  See my portfolio at <a href="https://github.com/Hosein-DAV" rel="nofollow">GitHub.com</a></li>
-<li>🚀  I will start working <a href="#" rel="nofollow">soon ...</a></li>
-<li>🤝  I'm open to collaborating on interesting projects a web developer.</li>
-</ul>
+
+
+<img align="right" width="200px" height="160px"
+src="./Coding.gif" />
+
+
+
+
+- 🖥️ See my portfolio at <a href="https://github.com/Hosein-DAV" rel="nofollow">GitHub.com</a>
+
+- 🚀 I will start working <a href="#" rel="nofollow">soon ...</a>  
+
+- 🤝 I'm open to collaborating on interesting projects a web developer.  
 
 <a class= "headding-Link" href="#Skills"><h2>Skills</h2>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" style="max-width: 100%;"></a>
