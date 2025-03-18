@@ -1,4 +1,4 @@
-<img src="./header.png" alt="header" style="max-width: 100%;">
+<img src="./main-header.png" alt="header" style="max-width: 100%;">
 
 <h1 align="center" class="heading-element" dir="auto">Hi 👋, I'm Hosein Dostalivand Nezhad</h1>
 
