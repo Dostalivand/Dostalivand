@@ -46,9 +46,12 @@
 
 
 
+<a class= "headding-Link" href="#Skills"><h1><span align="left">
+  <img src="./social-1.gif" width="40" height="40"/>
+  <strong>Social:</strong>
+</span></h1>
 
 
-<a class= "headding-Link" href="#social"><h1>Social:</h1>
 <a href="#" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="max-width: 100%;"></a>
 <a href="#" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" style="max-width: 100%;"></a>
 
