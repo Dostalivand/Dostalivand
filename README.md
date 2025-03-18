@@ -19,7 +19,20 @@
 
 
 
-<a class= "headding-Link" href="#Skills"><h1>Skills:</h1>
+
+
+
+
+
+<a class= "headding-Link" href="#Skills"><h1><p align="left">
+  <img src="./skills.gif" width="30" height="30"/>
+  <strong>Skills:</strong>
+</p></h1>
+
+
+
+
+
 
 
 
