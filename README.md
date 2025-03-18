@@ -24,10 +24,10 @@
 
 
 
-<a class= "headding-Link" href="#Skills"><h1><p align="left">
+<a class= "headding-Link" href="#Skills"><h1><span align="left">
   <img src="./skills.gif" width="30" height="30"/>
   <strong>Skills:</strong>
-</p></h1>
+</span></h1>
 
 
 
