@@ -47,7 +47,7 @@
 
 
 <a class= "headding-Link" href="#Skills"><h1><span align="left">
-  <img src="./social.gif" width="30" height="30"/>
+  <img src="./fire.gif" width="33" height="33"/>
   <strong>Social:</strong>
 </span></h1>
 
